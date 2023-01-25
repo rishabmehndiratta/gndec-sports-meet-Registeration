@@ -4,11 +4,17 @@ body {
     text-align: center;
 }
 
-h1 {
+/* h1 {
     color: #444;
     font-size: 36px;
     margin-top: 50px;
+} */
+h1 {
+  text-align: center; /* center the text */
+  font-size: 50px; /* increase the font size */
+  font-family: 'Open Sans', sans-serif; /* use the 'Open Sans' font */
 }
+
 
 #timer {
     margin: 50px 0;
