@@ -1,0 +1,26 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #444;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+#timer {
+    margin: 50px 0;
+}
+
+#demo {
+    color: #444;
+    font-size: 24px;
+}
+
+a {
+    color: #0077cc;
+    font-size: 18px;
+    text-decoration: none;
+}
