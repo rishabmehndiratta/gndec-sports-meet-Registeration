@@ -23,7 +23,9 @@ h1 {
 
 #timer {
     margin: 50px 0;
+    padding: 20px; /* increase the padding */
 }
+
 
 #demo {
     color: #444;
