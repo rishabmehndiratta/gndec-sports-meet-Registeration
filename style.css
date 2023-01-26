@@ -1,47 +1,30 @@
 
 body {
-  background-image: url("newbg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(0,0,0,0.2);
-  font-family: Arial, sans-serif;
-  text-align: center;
-
-}
-
-/* h1 {
-    color: #444;
-    font-size: 36px;
-    margin-top: 50px;
-} */
-h1 {
-  text-align: center; /* center the text */
-  font-size: 50px; /* increase the font size */
-  font-family: 'Open Sans', sans-serif; /* use the 'Open Sans' font */
-}
-
-
-/* #timer {
-    margin: 50px 0;
+    background-image: url("newbg.jpg"); /* add background image */
+    background-repeat: no-repeat; /* don't repeat the image */
+    background-size: cover; /* scale the image to cover the entire background */
+    background-color: rgba(0,0,0,0.2); /* add a transparent black overlay */
+    font-family: Arial, sans-serif;
     text-align: center;
-    font-size: 48px;
 }
 
-#demo {
-    color: #444;
-    padding: 20px;
-} */
+h1 {
+    text-align: center; /* center the text */
+    font-size: 50px; /* increase the font size */
+    font-family: 'Open Sans', sans-serif; /* use the 'Open Sans' font */
+}
+
 #timer {
-margin: 50px 0;
-
+    margin: 50px 0;
+    text-align: center; /* center the timer */
+    font-size: 48px; /* increase the font size of the timer */
 }
 
 #demo {
-color: #000;
-font-size: 36px;
-padding: 20px;
+    color: #000; /* change the color of the timer */
+    font-size: 36px; /* increase the font size of the timer */
+    padding: 20px; /* add padding to the timer */
 }
-
 
 a {
     color: #0077cc;
@@ -52,11 +35,10 @@ a {
 img{
     display: block;
     margin: 0 auto;
-}
-img{
     width: 100%;
     height: 150px;
 }
+
 #header-container {
   display: flex;
   flex-direction: column;
