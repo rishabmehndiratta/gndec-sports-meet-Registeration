@@ -1,7 +1,11 @@
 body {
-    background-color: #f2f2f2;
-    font-family: Arial, sans-serif;
-    text-align: center;
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: multiply;
+  font-family: Arial, sans-serif;
+  text-align: center;
 }
 
 /* h1 {
