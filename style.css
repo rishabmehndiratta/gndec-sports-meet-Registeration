@@ -33,11 +33,13 @@ h1 {
 } */
 #timer {
 margin: 50px 0;
+
 }
 
 #demo {
 color: #000;
 font-size: 36px;
+padding: 20px;
 }
 
 
