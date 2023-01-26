@@ -21,7 +21,7 @@ h1 {
 }
 
 
-#timer {
+/* #timer {
     margin: 50px 0;
     text-align: center;
     font-size: 48px;
@@ -30,6 +30,14 @@ h1 {
 #demo {
     color: #444;
     padding: 20px;
+} */
+#timer {
+margin: 50px 0;
+}
+
+#demo {
+color: #fff;
+font-size: 24px;
 }
 
 
