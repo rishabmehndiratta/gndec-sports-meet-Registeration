@@ -1,11 +1,12 @@
+
 body {
   background-image: url("background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.6);
-  background-blend-mode: multiply;
+  background-color: rgba(0,0,0,0.6);
   font-family: Arial, sans-serif;
   text-align: center;
+
 }
 
 /* h1 {
@@ -52,4 +53,3 @@ img{
 #header-container img {
   margin-bottom: 10px;
 }
-
