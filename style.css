@@ -23,8 +23,10 @@ h1 {
 
 #timer {
     margin: 50px 0;
-    padding: 20px; /* increase the padding */
+    height: 80px; /* increase the height */
+    width: 300px; /* increase the width */
 }
+
 
 
 #demo {
